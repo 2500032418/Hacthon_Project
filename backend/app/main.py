@@ -101,9 +101,11 @@ def on_startup():
     try:
         from .api.admin import run_reindex
         from .rag.vector_store import get_vector_store
-        if get_vector_store().count() == 0:
+        if os.getenv("AUTO_INDEX", "1") == "1" and get_vector_store().count() == 0:
             result = run_reindex()
             print(f"[startup] auto-indexed {result['files_ingested']} files ({result['chunks_added']} chunks)")
+        else:
+            print("[startup] auto-index skipped (AUTO_INDEX=0 or index already present)")
     except Exception as exc:
         print(f"[startup] auto-index skipped: {exc}")
 
