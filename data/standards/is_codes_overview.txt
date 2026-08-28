@@ -1,0 +1,41 @@
+BUREAU OF INDIAN STANDARDS - OVERVIEW OF POPULAR INDIAN STANDARDS (IS CODES)
+
+The Bureau of Indian Standards (BIS) is the national standards body of India, functioning under the Ministry of Consumer Affairs, Food and Public Distribution. It is responsible for the harmonious development of standardization, marking and quality certification of goods. Products manufactured in India or imported must conform to relevant Indian Standards when covered under a Quality Control Order (QCO).
+
+CIVIL ENGINEERING AND CONSTRUCTION
+IS 456: Plain and Reinforced Concrete - Code of Practice (2000). The fundamental code for structural concrete design covering materials, workmanship, inspection and testing.
+IS 1786: High Strength Deformed Steel Bars and Wires for Concrete Reinforcement (2008). Covers TMT bars in grades Fe415, Fe500, Fe550 and Fe600 including chemical composition and mechanical properties.
+IS 411: Fine Grained Steel, Medium and High Tensile Structural Steel (2013).
+IS 383: Coarse and Fine Aggregate for Concrete (2016). Specification for natural and manufactured sand used in concrete.
+IS 269: Ordinary Portland Cement Specification (2015). Covers OPC 33, 43 and 53 grades.
+IS 13920: Ductile Detailing of Reinforced Concrete Structures Subjected to Seismic Forces.
+
+WATER AND ENVIRONMENTAL
+IS 10500: Drinking Water Specification (2012). Defines acceptable and permissible limits for physical, chemical and microbiological parameters of potable water.
+IS 3025: Methods of Sampling and Test for Water and Wastewater (multiple parts, 1987 onwards). Laboratory procedures for pH, turbidity, hardness, dissolved oxygen, BOD, COD and more.
+
+PLASTICS AND PIPES
+IS 4985: Unplasticized PVC Pipes for Potable Water Supplies (2000).
+IS 15546: Polyethylene Pipes for Water Supply (2007).
+IS 13592: PVC Pipes for Soil and Waste Discharge Systems.
+
+ELECTRONICS AND ELECTRICAL (CRS MANDATORY PRODUCTS)
+IS 16046: Self-ballasted LED Lamps for General Lighting Services - Safety Requirements (2018).
+IS 10322: Luminaires - General Requirements.
+IS 13252: Information Technology Equipment - Safety Requirements (2010). Applicable to laptops, tablets, power banks, adapters.
+IS 616: Audio, Video and Similar Electronic Apparatus - Safety Requirements.
+IS 16333: Mobile Phones - Specific Requirements (mandatory Indian Language support for handsets).
+
+HOUSEHOLD APPLIANCES (ISI MARK SCHEME)
+IS 15656: Safety of Household and Similar Electrical Appliances - General Requirements (2006).
+IS 302: Electrical Appliances - Safety (two parts).
+
+TOYS
+IS 9873 Part 1: Safety Aspects Related to Mechanical and Physical Properties of Toys (2021).
+IS 9873 Part 2: Flammability requirements for toys.
+Toys are mandatorily certified under the Toys (Quality Control) Order - both electrical and non-electrical toys require an ISI mark.
+
+GOLD JEWELLERY HALLMARKING
+Hallmarking of gold jewellery and artefacts is governed by BIS Hallmarking Scheme using HUID (Hallmarking Unique Identification). A six digit alphanumeric HUID code is laser-marked on every hallmarked item and can be verified through the BIS Care mobile application.
+
+DISCLAIMER: This overview is for guidance. Always refer to the latest edition of a standard and the applicable Quality Control Order on bis.gov.in before taking commercial decisions.

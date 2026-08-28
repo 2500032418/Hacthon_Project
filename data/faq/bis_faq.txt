@@ -1,0 +1,31 @@
+FREQUENTLY ASKED QUESTIONS - BUREAU OF INDIAN STANDARDS (BIS)
+
+Q: What is the ISI mark?
+A: The ISI mark is a certification mark issued by the Bureau of Indian Standards certifying that a product conforms to the relevant Indian Standard (IS code). It is mandatory for many products under Quality Control Orders, including cement, steel bars, toys, LPG cylinders, helmets and household electrical appliances.
+
+Q: What is the CRS scheme?
+A: The Compulsory Registration Scheme is run by MeitY with BIS for electronics and IT products such as LED lamps, mobile phones, laptops, power banks and adapters. Instead of factory inspection, registration is based on test reports from recognized labs, and the product carries the Standard Mark plus an R-number.
+
+Q: How do I verify a BIS licence number?
+A: ISI licences look like CM/L-8700123456, CRS registrations look like R-61001234, hallmarking uses a six character HUID code, and foreign manufacturer licences use FML numbers. Verify authenticity on the official BIS verification portal at bis.gov.in or using the BIS Care mobile app.
+
+Q: Which IS standard applies to TMT bars?
+A: IS 1786 covers High Strength Deformed Steel Bars and Wires for Concrete Reinforcement, including grades Fe415, Fe500, Fe550 and Fe600. TMT bars for construction must be certified to this standard.
+
+Q: Which IS standard applies to LED lamps?
+A: IS 16046 (2018) covers Self-ballasted LED Lamps for General Lighting Services - Safety Requirements. LED lamps are mandatorily registered under the CRS scheme.
+
+Q: Which IS standard applies to drinking water?
+A: IS 10500 (2012) specifies acceptable limits for drinking water quality parameters such as pH, turbidity, total dissolved solids and heavy metals.
+
+Q: Which IS standard applies to cement?
+A: IS 269 (2015) specifies Ordinary Portland Cement in 33, 43 and 53 grades. Other cement types have their own standards, all under mandatory ISI certification.
+
+Q: How long does BIS certification take?
+A: CRS registration typically takes four to eight weeks after a complete application. ISI mark licensing typically takes two to six months because it involves a factory inspection and independent sample testing.
+
+Q: Is BIS certification compulsory for my product?
+A: If your product appears in any Quality Control Order (QCO) notified by the government, displaying the Standard Mark is compulsory for manufacture, sale, import or distribution in India. Check the latest QCO list on bis.gov.in.
+
+Q: What is hallmarking and HUID?
+A: Hallmarking is the accurate determination and official recording of the proportionate content of precious metal in jewellery. Every hallmarked gold item carries a unique six digit alphanumeric HUID code that buyers can verify in the BIS Care app.

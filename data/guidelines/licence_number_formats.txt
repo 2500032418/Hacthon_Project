@@ -1,0 +1,32 @@
+GUIDE TO BIS LICENCE AND REGISTRATION NUMBER FORMATS
+
+Understanding the different BIS number formats helps quickly identify what kind of certification a product carries and whether the format is genuine.
+
+1. ISI MARK LICENCE - CM/L FORMAT
+Format: CM/L-XXXXXXXXXX where X are digits (7 to 10 digits).
+Example: CM/L-8700123456.
+Found printed below the ISI mark on certified products such as cement bags, TMT bars, LPG cylinders, helmets and electrical appliances. The CM/L number identifies the licensed manufacturer and the specific Indian Standard.
+
+2. CRS REGISTRATION - R NUMBER
+Format: R-XXXXXX (usually six to eight digits).
+Example: R-61001234.
+Used for electronics and IT goods registered under the Compulsory Registration Scheme: LED lamps, mobile phones, laptops, power banks, adapters. The R-number must appear on the product along with the Standard Mark.
+
+3. HALLMARK UNIQUE IDENTIFICATION - HUID
+Format: six character alphanumeric code.
+Example: H9X2AB.
+Laser marked on every hallmarked gold jewellery item. Buyers can verify it instantly using the BIS Care mobile application. Hallmarking is mandatory in notified districts for gold jewellery sales.
+
+4. FOREIGN MANUFACTURERS CERTIFICATION SCHEME - FML
+Format: FML-XXXXXXXXXX (6 to 10 digits).
+Example: FML-1234567890.
+Issued to foreign manufacturers who export certified goods to India. Requires appointment of an authorized Indian representative and a factory audit by BIS officials.
+
+HOW TO VERIFY
+Enter the number exactly as printed (including prefixes) in the licence verification section of bis.gov.in or the BIS Care app. A valid format does not guarantee authenticity; always confirm holder name, product scope and licence status (active, suspended or cancelled) through official channels.
+
+WARNING SIGNS OF FAKE CERTIFICATION
+Missing CM/L or R-number next to a printed ISI mark.
+Numbers that do not match the official format pattern.
+Holder name mismatch when verified on the portal.
+Blurry or tampered marks on packaging.

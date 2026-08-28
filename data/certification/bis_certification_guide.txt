@@ -1,0 +1,42 @@
+BIS CERTIFICATION GUIDE - ISI MARK AND CRS REGISTRATION
+
+The Bureau of Indian Standards operates two main certification routes for products: the ISI Mark (Product Certification Scheme) and the CRS (Compulsory Registration Scheme) for electronics and IT goods. Which route applies depends on whether the product is listed under a Quality Control Order (QCO).
+
+SCHEME 1: ISI MARK (PRODUCT CERTIFICATION SCHEME)
+Authority: Bureau of Indian Standards. Applies to cement, steel, TMT bars, toys, water bottles, LPG cylinders, household electrical appliances, PVC pipes, and more than 350 product categories under various QCOs.
+
+STEP BY STEP PROCESS FOR ISI MARK
+Step 1: Identify the applicable Indian Standard (IS code) for your product using the BIS product manuals available on bis.gov.in.
+Step 2: Set up your factory with the required manufacturing process and in-house testing equipment as per the testing clauses of the relevant IS standard.
+Step 3: File the application online at manakonline.in with factory details, machinery list, raw material sources and internal test reports. Application fee is approximately two thousand rupees.
+Step 4: A BIS officer conducts a factory inspection to verify production capability and testing infrastructure, and draws independent samples. Inspection charges are around seven thousand rupees plus travel.
+Step 5: Samples are tested at a BIS-recognized laboratory; the applicant pays testing charges.
+Step 6: On successful conformity, the licence is granted with a CM/L number. Pay the licence fee (minimum one thousand rupees per year) and marking fee based on production volume, then affix the ISI mark.
+Step 7: BIS performs periodic surveillance inspections and market sampling to ensure continued conformity.
+
+TYPICAL TIMELINE: two to six months from complete application.
+
+SCHEME 2: CRS - COMPULSORY REGISTRATION SCHEME
+Authority: MeitY together with BIS. Applies to electronics and IT goods such as LED lamps (IS 16046), mobile phones (IS 16333), laptops and power banks (IS 13252), adapters, smart watches and LED television sets.
+
+STEP BY STEP PROCESS FOR CRS
+Step 1: Identify the mandatory IS standard for your electronics product.
+Step 2: Get the product tested at any BIS or MeitY recognized laboratory as per the test methods of that standard.
+Step 3: Apply online at manakonline.in attaching the test report, brand or trademark proof and factory details. Registration fee is approximately forty three thousand rupees per product variant including processing charges.
+Step 4: Receive the registration letter with an R-number and affix the Standard Mark along with the R-number on each product.
+
+TYPICAL TIMELINE: four to eight weeks after a complete application.
+
+DOCUMENTS COMMONLY REQUIRED
+Business registration proof such as Company registration, GST certificate or MSME Udyam registration.
+Factory layout plan and list of machinery.
+Raw material source details and supplier certificates.
+List of in-house test equipment with calibration records.
+Internal test reports of product samples.
+Trademark certificate if a brand name is used.
+Test report from a BIS-recognized laboratory (mandatory for CRS).
+
+FOREIGN MANUFACTURERS
+Foreign manufacturers selling certified goods in India must obtain an FMCS licence (FML number) which requires an Indian Air Representative and a factory visit by BIS officials.
+
+DISCLAIMER: Fees and requirements are indicative and change over time. Always verify the latest QCO list, fee schedule and procedure on bis.gov.in and manakonline.in before applying.
